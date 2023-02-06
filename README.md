@@ -38,7 +38,7 @@
 ![a5897278-48e8-4e71-9b36-09b2e59b26b9](https://user-images.githubusercontent.com/111164834/216692941-1e774eaa-27e1-4069-8c9b-49a1a49f4809.jpg)
 
 
-- Mudando algumas informções de um usuário (o de id 1 foi escolhido para teste)
+- Mudando algumas informações de um usuário (o de id 1 foi escolhido para teste)
 ![949ff9cc-7065-4ce0-95ba-4ba2c4b0166a](https://user-images.githubusercontent.com/111164834/216692958-71a956a4-90da-4509-a3ad-f097dcd06c29.jpg)
 
 
